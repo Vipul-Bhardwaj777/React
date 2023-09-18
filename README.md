@@ -1,2 +1,2 @@
-# React course
+# React 🚀
 Lets dive deep into Reactjs
